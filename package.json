@@ -1,5 +1,6 @@
 {
   "name": "@scaffold-eth/monorepo",
+  "homepage": "https://github.com/alertcat/cca/",
   "version": "1.0.0",
   "keywords": [
     "ethereum",
